@@ -39,7 +39,7 @@ These implementations are included solely for performance comparison and are not
 ## ✅ VDocRAG Features
 
 - **Multi-document support**  
-  Handles multiple versioned documents across different categories.
+  Handles multiple versioned documents across different categories, automatically distinguishing between standard documents and changelogs. Indexing is fully automated with no manual intervention required.
 
 - **Version-aware graph construction**  
   Builds a structured graph representing documents, versions, and occured changes between subsequent versions.
