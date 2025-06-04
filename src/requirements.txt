@@ -1,0 +1,13 @@
+pymilvus        # vector database
+pymilvus[model] # vector database
+neo4j           # graph database
+neo4j_graphrag  # graph rag
+python-dotenv   # env variables
+lmstudio        # local llm client
+openai          # openai client
+pdfminer.six    # pdf
+PyPDF2          # pdf
+pymupdf4llm     # pdf
+docling         # chunking
+markdown-chunker# chunking
+deepdiff        # content differ
